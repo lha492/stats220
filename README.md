@@ -5,9 +5,9 @@ Hello! I'm **Linh Ha**, an international student enrolled in STATS220 in semeste
 I've created this repository to showcase my progress and document the works and projects I've done
 throughout the duration of the course. Here's a bit of info about me:
 
-* Full Name: Linh Hoang Ha
-* Major: Computer Science
-* Year of Study: 2nd year
+* **Full Name:** Linh Hoang Ha
+* **Major:** Computer Science
+* **Year of Study:** 2nd year
 
 Some fun facts about me:
 1. I come from Vietnam. My favorite Vietnamese food is Bún Bò Huế.
