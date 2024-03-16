@@ -9,7 +9,7 @@ throughout the duration of the course. Here's a bit of info about me:
 * **Major:** Computer Science
 * **Year of Study:** 2nd year
 
-Some fun facts about me:
+### Some fun facts about me:
 1. I come from Vietnam. My favorite Vietnamese food is Bún Bò Huế.
 2. I like playing video games and drawing.
 3. One of my goals for this year is to get back into reading books.
