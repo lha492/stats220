@@ -6,7 +6,6 @@ I've created this repository to showcase my progress and document the works and 
 throughout the duration of the course. Here's a bit of info about me:
 
 * **Full Name:** Linh Hoang Ha
-* **Major:** Computer Science
 * **Year of Study:** 2nd year
 
 ### Some fun facts about me:
