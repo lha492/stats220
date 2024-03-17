@@ -1,5 +1,5 @@
 # STATS220 Repository
-*This repository contains all the works and projects I've done STATS220.*
+*This repository contains all the works and projects I've done in STATS220.*
 ## About me
 Hello! I'm **Linh Ha**, an international student enrolled in STATS220 in semester one of 2024.
 I've created this repository to showcase my progress and document the works and projects I've done
